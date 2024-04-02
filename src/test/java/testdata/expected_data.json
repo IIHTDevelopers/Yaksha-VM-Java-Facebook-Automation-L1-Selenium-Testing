@@ -1,0 +1,90 @@
+{
+	"LoginPage_Title":{
+		"loginpageTitle":"Facebook – log in or sign up"
+	},
+	"HomePage_Title":{
+		"pageTitle":"Facebook – log in or sign up"
+	},
+	"logInCredential":{
+		"emailAddsPhoneNumber":"9124564060",
+		"password1":"Surya@123456",
+		"Username":"9514048813",
+		"Password":"shibu04@Facebook",
+		"pageTitle_after_loggedin":"Facebook",
+		"ProfileName":"Shibu Dharshan ",
+		"Bio_Section":"Designing unique solutions for unique problems.",
+		"university_name":"Test university"
+	},
+	"createNewAccountDetails":{
+		"FirstName":"ALEXA",
+		"surname":"RIHANA",
+		"emailOrMobileNumber":"8093151424",
+		"newPassword":"example@12345"
+	},
+	"EmailOrPhoneNumber":{
+		"emailAddsPhoneNumber":"9124564060"
+	},
+	"password":{
+		"password":"abcde@12345"
+	},
+	"Incorrect_password":{
+		"incorrect_password_meassge":"The password that you've entered is incorrect."
+	},
+	"Incorrect_Username":{
+		"incorrect_username_meassge":"The email address you entered isn't connected to an account."
+	},
+	"Login_button":{
+		"Login_button_meassge":"Log in"
+	},
+	"Forgot_Password":{
+		"Forgot_Password_title":"Forgotten Password | Can't Log In | Facebook"
+	},
+
+	"login_page_title":{
+		"login_page_title_meassge":"Facebook"
+	},
+	"Sign_up_page":{
+		"Sign_up_page_title":"Facebook – log in or sign up"
+	},
+	"male_radio_button":{
+		"male_radio_button_title":"Male"
+	},
+	"Terms_link":{
+		"Terms_link_title":"Facebook"
+	},
+	"Data_Policy_link":{
+		"Data_Policy_link_title":"Meta Privacy Policy – How Meta collects and uses user data | Privacy Centre | Manage your privacy on Facebook, Instagram and Messenger | Facebook Privacy"
+	},
+	"error_message":{
+		"verify_error_message":"Enter a combination of at least six numbers, letters and punctuation marks (such as ! and &)."
+	},
+	"username_field":{
+		"username_field_Title":"Email address or phone number"
+	},
+	"errorMessage":{
+		"errorMessageText":"Invalid username or password",
+		"errorMessageText1":"The email address or mobile number you entered isn't connected to an account. Find your account and log in.",
+		"errorMessageText2":"The email address or mobile number you entered isn't connected to an account. Find your account and log in.Find your account and log in."
+	},
+	"errorMessages":{
+		"errorMessageText":"The password that you've entered is incorrect.",
+		"errorMessageWithoutGivingPassword":"Invalid username or password",
+		"errorMessageWithoutGivingMobileNumber":"Invalid username or password"
+	},
+	"Gender_Optional_TextField_data":{
+		"GenderOptionalValue":"The password that you've entered is incorrect."
+	},
+	"credentials":{
+		"Username":"9514048813",
+		"Password":"shibu04@Facebook"
+	},
+	"About_Section":{
+		"Company_name_textfield":"yakshaa",
+		"hometown_textfield":"Test",
+		"current_city":"Test",
+		"Secondary_School":"Test Public school"
+	},
+	"PathOfTheImage":{
+		"imagePath":"\\testImage\\uploadImage.png"
+	}
+}
