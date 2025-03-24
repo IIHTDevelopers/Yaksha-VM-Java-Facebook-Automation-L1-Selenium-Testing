@@ -11,5 +11,3 @@ git commit -m "First commit"
 REM Push the changes to the remote repository
 git push
 
-REM Pause to view any output before the window closes
-pause
